@@ -1,0 +1,277 @@
+#EXTM3U
+#EXTINF:-1,Globo
+http://192.99.148.73:8080/live/Rachel/1024/2.m3u8
+#EXTINF:-1,Record
+http://192.99.148.73:8080/live/Rachel/1024/6.m3u8
+#EXTINF:-1,RedeTV!
+http://192.99.148.73:8080/live/Rachel/1024/4.m3u8
+#EXTINF:-1,Band
+http://192.99.148.73:8080/live/Rachel/1024/5.m3u8
+#EXTINF:-1,SBT
+http://192.99.148.73:8080/live/Rachel/1024/3.m3u8
+#EXTINF:-1,TV Cultura
+http://192.99.148.73:8080/live/Rachel/1024/1.m3u8
+#EXTINF:-1,Canal Futura
+http://192.99.148.73:8080/live/Rachel/1024/7.m3u8
+#EXTINF:-1,Telecine Action
+http://192.99.148.73:8080/live/Rachel/1024/9.m3u8
+#EXTINF:-1,Telecine Premium
+http://192.99.148.73:8080/live/Rachel/1024/8.m3u8
+#EXTINF:-1,Telecine Touch
+http://192.99.148.73:8080/live/Rachel/1024/12.m3u8
+#EXTINF:-1,Telecine Fun
+http://192.99.148.73:8080/live/Rachel/1024/10.m3u8
+#EXTINF:-1,TV Brasil
+http://192.99.148.73:8080/live/Rachel/1024/99.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://192.99.148.73:8080/live/Rachel/1024/11.m3u8
+#EXTINF:-1,Telecine Cult
+http://192.99.148.73:8080/live/Rachel/1024/13.m3u8
+#EXTINF:-1,HBO
+http://192.99.148.73:8080/live/Rachel/1024/14.m3u8
+#EXTINF:-1,HBO 2
+http://192.99.148.73:8080/live/Rachel/1024/15.m3u8
+#EXTINF:-1,HBO Plus
+http://192.99.148.73:8080/live/Rachel/1024/18.m3u8
+#EXTINF:-1,HBO Signature
+http://192.99.148.73:8080/live/Rachel/1024/16.m3u8
+#EXTINF:-1,HBO Family
+http://192.99.148.73:8080/live/Rachel/1024/17.m3u8
+#EXTINF:-1,Universal
+http://192.99.148.73:8080/live/Rachel/1024/22.m3u8
+#EXTINF:-1,+GloboSat
+http://192.99.148.73:8080/live/Rachel/1024/108.m3u8
+#EXTINF:-1,TNT Séries
+http://192.99.148.73:8080/live/Rachel/1024/101.m3u8
+#EXTINF:-1,TNT
+http://192.99.148.73:8080/live/Rachel/1024/30.m3u8
+#EXTINF:-1,TCM
+http://192.99.148.73:8080/live/Rachel/1024/35.m3u8
+#EXTINF:-1,Studio Universal
+http://192.99.148.73:8080/live/Rachel/1024/32.m3u8
+#EXTINF:-1,Max Prime
+http://192.99.148.73:8080/live/Rachel/1024/24.m3u8
+#EXTINF:-1,Max
+http://192.99.148.73:8080/live/Rachel/1024/23.m3u8
+#EXTINF:-1,TBS
+http://192.99.148.73:8080/live/Rachel/1024/33.m3u8
+#EXTINF:-1,Warner
+http://192.99.148.73:8080/live/Rachel/1024/26.m3u8
+#EXTINF:-1,Paramount Channel
+http://192.99.148.73:8080/live/Rachel/1024/34.m3u8
+#EXTINF:-1,Fox
+http://192.99.148.73:8080/live/Rachel/1024/20.m3u8
+#EXTINF:-1,Space
+http://192.99.148.73:8080/live/Rachel/1024/21.m3u8
+#EXTINF:-1,Sony
+http://192.99.148.73:8080/live/Rachel/1024/28.m3u8
+#EXTINF:-1,Megapix
+http://192.99.148.73:8080/live/Rachel/1024/19.m3u8
+#EXTINF:-1,FX
+http://192.99.148.73:8080/live/Rachel/1024/27.m3u8
+#EXTINF:-1,AXN
+http://192.99.148.73:8080/live/Rachel/1024/29.m3u8
+#EXTINF:-1,Max Up
+http://192.99.148.73:8080/live/Rachel/1024/25.m3u8
+#EXTINF:-1,I sat
+http://192.99.148.73:8080/live/Rachel/1024/109.m3u8
+#EXTINF:-1,Cinemax
+http://192.99.148.73:8080/live/Rachel/1024/31.m3u8
+#EXTINF:-1,SporTV
+http://192.99.148.73:8080/live/Rachel/1024/55.m3u8
+#EXTINF:-1,SporTV 2
+http://192.99.148.73:8080/live/Rachel/1024/56.m3u8
+#EXTINF:-1,SporTV 3
+http://192.99.148.73:8080/live/Rachel/1024/57.m3u8
+#EXTINF:-1,Canal Brasil
+http://192.99.148.73:8080/live/Rachel/1024/112.m3u8
+#EXTINF:-1,Fox Sports
+http://192.99.148.73:8080/live/Rachel/1024/63.m3u8
+#EXTINF:-1,Fox Sports 2
+http://192.99.148.73:8080/live/Rachel/1024/64.m3u8
+#EXTINF:-1,ESPN
+http://192.99.148.73:8080/live/Rachel/1024/59.m3u8
+#EXTINF:-1,ESPN+
+http://192.99.148.73:8080/live/Rachel/1024/60.m3u8
+#EXTINF:-1,ESPN Brasil
+http://192.99.148.73:8080/live/Rachel/1024/61.m3u8
+#EXTINF:-1,Band Sports
+http://192.99.148.73:8080/live/Rachel/1024/58.m3u8
+#EXTINF:-1,Ei Maxx
+http://192.99.148.73:8080/live/Rachel/1024/65.m3u8
+#EXTINF:-1,Ei Maxx 2
+http://192.99.148.73:8080/live/Rachel/1024/66.m3u8
+#EXTINF:-1,Esporte Interativo
+http://192.99.148.73:8080/live/Rachel/1024/67.m3u8
+#EXTINF:-1,Combate
+http://192.99.148.73:8080/live/Rachel/1024/80.m3u8
+#EXTINF:-1,Premiere Clubes
+http://192.99.148.73:8080/live/Rachel/1024/71.m3u8
+#EXTINF:-1,Premiere 9
+http://192.99.148.73:8080/live/Rachel/1024/79.m3u8
+#EXTINF:-1,Premiere 8
+http://192.99.148.73:8080/live/Rachel/1024/78.m3u8
+#EXTINF:-1,Premiere 7
+http://192.99.148.73:8080/live/Rachel/1024/77.m3u8
+#EXTINF:-1,Premiere 6
+http://192.99.148.73:8080/live/Rachel/1024/76.m3u8
+#EXTINF:-1,Premiere 5
+http://192.99.148.73:8080/live/Rachel/1024/75.m3u8
+#EXTINF:-1,Premiere 4
+http://192.99.148.73:8080/live/Rachel/1024/74.m3u8
+#EXTINF:-1,Premiere 3
+http://192.99.148.73:8080/live/Rachel/1024/73.m3u8
+#EXTINF:-1,Premiere 2
+http://192.99.148.73:8080/live/Rachel/1024/72.m3u8
+#EXTINF:-1,Off
+http://192.99.148.73:8080/live/Rachel/1024/62.m3u8
+#EXTINF:-1,Woohoo
+http://192.99.148.73:8080/live/Rachel/1024/96.m3u8
+#EXTINF:-1,Bis
+http://192.99.148.73:8080/live/Rachel/1024/37.m3u8
+#EXTINF:-1,Multishow
+http://192.99.148.73:8080/live/Rachel/1024/39.m3u8
+#EXTINF:-1,MTV
+http://192.99.148.73:8080/live/Rachel/1024/38.m3u8
+#EXTINF:-1,Vh1 Mega hits
+http://192.99.148.73:8080/live/Rachel/1024/98.m3u8
+#EXTINF:-1,TLC
+http://192.99.148.73:8080/live/Rachel/1024/44.m3u8
+#EXTINF:-1,Viva
+http://192.99.148.73:8080/live/Rachel/1024/36.m3u8
+#EXTINF:-1,GNT
+http://192.99.148.73:8080/live/Rachel/1024/40.m3u8
+#EXTINF:-1,Fox Life
+http://192.99.148.73:8080/live/Rachel/1024/43.m3u8
+#EXTINF:-1,Sic Internacional
+http://192.99.148.73:8080/live/Rachel/1024/103.m3u8
+#EXTINF:-1,Music Box Brasil
+http://192.99.148.73:8080/live/Rachel/1024/106.m3u8
+#EXTINF:-1,Comedy Central
+http://192.99.148.73:8080/live/Rachel/1024/111.m3u8
+#EXTINF:-1,Arte 1
+http://192.99.148.73:8080/live/Rachel/1024/113.m3u8
+#EXTINF:-1,TruTV
+http://192.99.148.73:8080/live/Rachel/1024/100.m3u8
+#EXTINF:-1,Tooncast
+http://192.99.148.73:8080/live/Rachel/1024/97.m3u8
+#EXTINF:-1,Syfy
+http://192.99.148.73:8080/live/Rachel/1024/102.m3u8
+#EXTINF:-1,Disney XD
+http://192.99.148.73:8080/live/Rachel/1024/85.m3u8
+#EXTINF:-1,Disney Junior
+http://192.99.148.73:8080/live/Rachel/1024/84.m3u8
+#EXTINF:-1,Disney Channel
+http://192.99.148.73:8080/live/Rachel/1024/86.m3u8
+#EXTINF:-1,Nick Jr.
+http://192.99.148.73:8080/live/Rachel/1024/87.m3u8
+#EXTINF:-1,Nickelodeon
+http://192.99.148.73:8080/live/Rachel/1024/83.m3u8
+#EXTINF:-1,Discovery Kids
+http://192.99.148.73:8080/live/Rachel/1024/88.m3u8
+#EXTINF:-1,Gloob
+http://192.99.148.73:8080/live/Rachel/1024/81.m3u8
+#EXTINF:-1,Boomerang
+http://192.99.148.73:8080/live/Rachel/1024/89.m3u8
+#EXTINF:-1,Cartoon Network
+http://192.99.148.73:8080/live/Rachel/1024/82.m3u8
+#EXTINF:-1,Nat Geo
+http://192.99.148.73:8080/live/Rachel/1024/45.m3u8
+#EXTINF:-1,History
+http://192.99.148.73:8080/live/Rachel/1024/52.m3u8
+#EXTINF:-1,H2
+http://192.99.148.73:8080/live/Rachel/1024/53.m3u8
+#EXTINF:-1,Animal Planet
+http://192.99.148.73:8080/live/Rachel/1024/51.m3u8
+#EXTINF:-1,A&E
+http://192.99.148.73:8080/live/Rachel/1024/41.m3u8
+#EXTINF:-1,Discovery
+http://192.99.148.73:8080/live/Rachel/1024/46.m3u8
+#EXTINF:-1,Discovery Turbo
+http://192.99.148.73:8080/live/Rachel/1024/49.m3u8
+#EXTINF:-1,Discovery Science
+http://192.99.148.73:8080/live/Rachel/1024/54.m3u8
+#EXTINF:-1,Fish TV
+http://192.99.148.73:8080/live/Rachel/1024/110.m3u8
+#EXTINF:-1,Discovery ID
+http://192.99.148.73:8080/live/Rachel/1024/47.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://192.99.148.73:8080/live/Rachel/1024/48.m3u8
+#EXTINF:-1,Discovery Civilization
+http://192.99.148.73:8080/live/Rachel/1024/50.m3u8
+#EXTINF:-1,E!
+http://192.99.148.73:8080/live/Rachel/1024/42.m3u8
+#EXTINF:-1,Record News
+http://192.99.148.73:8080/live/Rachel/1024/69.m3u8
+#EXTINF:-1,Band News
+http://192.99.148.73:8080/live/Rachel/1024/70.m3u8
+#EXTINF:-1,Globo News
+http://192.99.148.73:8080/live/Rachel/1024/68.m3u8
+#EXTINF:-1,Playboy TV
+http://192.99.148.73:8080/live/Rachel/1024/90.m3u8
+#EXTINF:-1,Sexy Hot
+http://192.99.148.73:8080/live/Rachel/1024/91.m3u8
+#EXTINF:-1,Sextreme
+http://192.99.148.73:8080/live/Rachel/1024/92.m3u8
+#EXTINF:-1,A&E HD
+http://192.99.148.73:8080/live/Rachel/1024/176.m3u8
+#EXTINF:-1,Aparecida
+http://192.99.148.73:8080/live/Rachel/1024/559.m3u8
+#EXTINF:-1,Band Alternativo
+http://192.99.148.73:8080/live/Rachel/1024/560.m3u8
+#EXTINF:-1,Canção Nova
+http://192.99.148.73:8080/live/Rachel/1024/561.m3u8
+#EXTINF:-1,Curta!
+http://192.99.148.73:8080/live/Rachel/1024/562.m3u8
+#EXTINF:-1,Food Network
+http://192.99.148.73:8080/live/Rachel/1024/563.m3u8
+#EXTINF:-1,Globo Brasília
+http://192.99.148.73:8080/live/Rachel/1024/564.m3u8
+#EXTINF:-1,Globo Minas
+http://192.99.148.73:8080/live/Rachel/1024/565.m3u8
+#EXTINF:-1,Globo Nordeste
+http://192.99.148.73:8080/live/Rachel/1024/566.m3u8
+#EXTINF:-1,Globo RJ
+http://192.99.148.73:8080/live/Rachel/1024/567.m3u8
+#EXTINF:-1,HBO Plus*e
+http://192.99.148.73:8080/live/Rachel/1024/568.m3u8
+#EXTINF:-1,Ideal TV
+http://192.99.148.73:8080/live/Rachel/1024/569.m3u8
+#EXTINF:-1,Lifetime
+http://192.99.148.73:8080/live/Rachel/1024/570.m3u8
+#EXTINF:-1,NBR
+http://192.99.148.73:8080/live/Rachel/1024/572.m3u8
+#EXTINF:-1,Novo Tempo
+http://192.99.148.73:8080/live/Rachel/1024/105.m3u8
+#EXTINF:-1,Play TV
+http://192.99.148.73:8080/live/Rachel/1024/573.m3u8
+#EXTINF:-1,Prime Box Brasil
+http://192.99.148.73:8080/live/Rachel/1024/104.m3u8
+#EXTINF:-1,RBI
+http://192.99.148.73:8080/live/Rachel/1024/575.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://192.99.148.73:8080/live/Rachel/1024/576.m3u8
+#EXTINF:-1,Rede Brasil
+http://192.99.148.73:8080/live/Rachel/1024/577.m3u8
+#EXTINF:-1,Rede Vida
+http://192.99.148.73:8080/live/Rachel/1024/578.m3u8
+#EXTINF:-1,RIT
+http://192.99.148.73:8080/live/Rachel/1024/579.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://192.99.148.73:8080/live/Rachel/1024/580.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://192.99.148.73:8080/live/Rachel/1024/581.m3u8
+#EXTINF:-1,Terra Viva
+http://192.99.148.73:8080/live/Rachel/1024/582.m3u8
+#EXTINF:-1,TV Anhanguera Goiânia
+http://192.99.148.73:8080/live/Rachel/1024/584.m3u8
+#EXTINF:-1,TV Bahia
+http://192.99.148.73:8080/live/Rachel/1024/585.m3u8
+#EXTINF:-1,TV RÆ tim bum
+http://192.99.148.73:8080/live/Rachel/1024/586.m3u8
+#EXTINF:-1,TV Verdes Mares Fortaleza
+http://192.99.148.73:8080/live/Rachel/1024/587.m3u8
+#EXTINF:-1,[US] Telemundo
+http://192.99.148.73:8080/live/Rachel/1024/588.m3u8
+#EXTINF:-1,[US] Univision
+http://192.99.148.73:8080/live/Rachel/1024/589.m3u8
